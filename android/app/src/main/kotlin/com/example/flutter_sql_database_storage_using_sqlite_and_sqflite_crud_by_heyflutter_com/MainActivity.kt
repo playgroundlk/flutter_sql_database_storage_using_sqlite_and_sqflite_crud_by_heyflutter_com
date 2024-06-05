@@ -1,0 +1,5 @@
+package com.example.flutter_sql_database_storage_using_sqlite_and_sqflite_crud_by_heyflutter_com
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
