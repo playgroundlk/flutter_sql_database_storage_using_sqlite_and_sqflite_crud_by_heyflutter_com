@@ -1,0 +1,20 @@
+name: flutter_sql_database_storage_using_sqlite_and_sqflite_crud_by_heyflutter_com
+description: "Persist data in Local Database of your Android or iOS device with Sqlite and Sqflite plugin. Using Raw SQL statements perform Sqflite CRUD Operations Create, Read, Update and Delete."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
